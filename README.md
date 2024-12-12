@@ -4,6 +4,7 @@ This project will be a comprehensive overview of how to implement basic seizure 
 Coauthored by Elise Gibney and Kelly Chan.
 
 **References**
+
 *Data*: Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215–e220.
 
 *Code*: Lyu, J., & Mao, L. (2020). Comparing Supervised Machine Learning Algorithms for Patient-Specific and Non-Patient Specific Epileptic Seizure Detection Using Multichannel Scalp EEG. GitHub. https://github.com/lingchm/epilepsy_eeg_classification/tree/main
